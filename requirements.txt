@@ -1,0 +1,11 @@
+email
+discord
+random
+yfinance
+time
+pandas
+numpy
+matplotlib
+datetime
+plotly.graph_objs
+kaleido
